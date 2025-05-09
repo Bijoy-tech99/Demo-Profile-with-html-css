@@ -1,0 +1,72 @@
+body {
+     margin: 3px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#title1 {
+    font-size: 60px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: rgb(35, 14, 128);
+    padding: 80px;
+    border-radius:7px;
+    margin: 0px 0px 0px;
+
+}
+
+.title{
+    text-align: center;
+    color: rgb(112, 25, 25);
+    font-size: 33px;
+    margin: 12px 0px 23px 109px;
+    padding: 71px 9px 68px 518px;
+    background-color: rgb(164, 162, 133);
+    border-radius: 9px;
+    font-family: Pacifico;
+    font-size: 28px;
+}
+#title2 {
+
+  font-family: "Great Vibes", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 30px;
+  text-align: left;
+  margin: 0px;
+
+
+}
+
+
+main {
+    text-align: center;
+    background-color: white;
+}
+section h2 {
+    margin: 30px 35px 45px 30px;
+}
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin: 0 0 0 0 
+}
+div {
+    object-fit: cover;
+    display: block;
+    margin: 46px auto;
+}
+#channle {
+    font-size:28px ;
+
+}
+footer {
+    overflow: hidden;
+    background-color: rgb(41, 39, 39);
+}
+footer a {
+    text-decoration: none;
+    text-align: center;
+    float: left;
+    padding: 18px;
+    color: aliceblue;
+}
